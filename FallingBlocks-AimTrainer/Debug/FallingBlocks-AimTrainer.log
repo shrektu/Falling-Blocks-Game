@@ -1,0 +1,5 @@
+﻿  Game.cpp
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(165,27): warning C4018: '<': signed/unsigned mismatch
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(179,18): warning C4018: '<': signed/unsigned mismatch
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+  FallingBlocks-AimTrainer.vcxproj -> E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\Debug\FallingBlocks-AimTrainer.exe

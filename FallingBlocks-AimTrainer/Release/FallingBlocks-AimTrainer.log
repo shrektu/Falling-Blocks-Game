@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Game.cpp
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(165,27): warning C4018: '<': signed/unsigned mismatch
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(179,18): warning C4018: '<': signed/unsigned mismatch
+E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\FallingBlocks-AimTrainer\Game.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FallingBlocks-AimTrainer.vcxproj -> E:\Dokumenty\CPP\MyProjects\FallingBlocks-AimTrainer\Release\FallingBlocks-AimTrainer.exe
